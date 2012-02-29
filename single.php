@@ -33,7 +33,7 @@ if (empty($results)) {
 <html>
 <head>
 	<meta charset="utf-8">
-	<title><?php echo $results['movie_title']; ?> &middot; My Favourite Westerns</title>
+	<title><?php echo $results['movie_title']; ?> &middot; Favourite Westerns</title>
 </head>
 <body>
 	

@@ -13,7 +13,7 @@ $results = $db->query('
 <html>
 <head>
 	<meta charset="utf-8">
-	<title>My Favourite Westerns</title>
+	<title>Favourite Westerns</title>
 </head>
 <body>
 	
